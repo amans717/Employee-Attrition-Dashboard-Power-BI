@@ -95,4 +95,4 @@ The dashboard enables HR teams to:
 **Aman Shaikh**
 
 - 📧 Email: amansshaikh88@gmail.com
-- 💼 LinkedIn: *(Add your LinkedIn profile link)*
+
